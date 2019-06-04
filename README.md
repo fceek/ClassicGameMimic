@@ -1,1 +1,4 @@
 # ClassicGameMimic
+
+- [-] MineSweeper
+- [ ] GuessingNumber
